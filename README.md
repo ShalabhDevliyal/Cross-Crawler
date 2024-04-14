@@ -17,7 +17,7 @@ To create a step-by-step guide for running your XSS Crawler tool, follow these s
 3. **Clone the XSS Crawler repository**: Clone the repository from GitHub using the following command:
 
    ```
-   git clone https://github.com/ShalabhDevliyal/XSS-Crawler.git
+   git clone https://github.com/ShalabhDevliyal/Cross-Crawler.git
    ```
 
 4. **Run the XSS Crawler**: Navigate to the cloned repository and run the following command:

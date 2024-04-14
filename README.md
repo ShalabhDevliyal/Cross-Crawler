@@ -23,7 +23,7 @@ To create a step-by-step guide for running your XSS Crawler tool, follow these s
 4. **Run the XSS Crawler**: Navigate to the cloned repository and run the following command:
 
    ```
-   python xss_crawler.py
+   python crosscrawler.py
    ```
 
    This will open the GUI, where you can enter the domain to crawl and start the crawl.

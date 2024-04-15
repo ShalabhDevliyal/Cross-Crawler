@@ -1,0 +1,13 @@
+cross_crawler/
+│
+├── cross_crawler.py          # Main script
+├── ascii_art.txt             # ASCII art file
+├── crawler/                  # Module for crawling
+│   ├── __init__.py
+│   └── crawler.py
+├── vulnerability/            # Module for vulnerability testing
+│   ├── __init__.py
+│   └── vulnerability_tester.py
+└── report/                   # Module for generating reports
+    ├── __init__.py
+    └── report_generator.py

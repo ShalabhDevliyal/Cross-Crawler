@@ -30,6 +30,7 @@ Run the tool by executing the `crawler.py` script and providing the URL of the w
 
 ```bash
 python crawler.py <website_url>
+```
 
 ## Workflow
 
@@ -39,7 +40,7 @@ Testing Phase: After crawling, the tool tests each discovered endpoint for poten
 
 Example
 
-```
+```bash
 python crawler.py https://example.com
 
 ```

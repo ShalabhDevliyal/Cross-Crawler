@@ -30,3 +30,18 @@ Run the tool by executing the `crawler.py` script and providing the URL of the w
 
 ```bash
 python crawler.py <website_url>
+
+## Workflow
+
+Crawling Phase: The tool starts by crawling the specified website. It extracts all the URLs found in the web pages of the website.
+
+Testing Phase: After crawling, the tool tests each discovered endpoint for potential XSS vulnerabilities. It injects a simple XSS payload into the endpoint and checks for any execution of malicious scripts.
+
+Example
+
+```
+python crawler.py https://example.com
+
+```
+
+This command will start the Cross Crawler tool and test the website at https://example.com for XSS vulnerabilities.

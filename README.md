@@ -11,7 +11,7 @@ Cross Crawler is a command-line tool for detecting XSS (Cross-Site Scripting) vu
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/CrossCrawler.git
+    git clone https://github.com/ShalabhDevliyal/Cross-Crawler.git
     ```
 
 2. Navigate to the project directory:
